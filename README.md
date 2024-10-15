@@ -1,5 +1,5 @@
 # odin-recipes
-The Odin Project: Project Recipes
+The Odin Project: Project Recipes<br />
 Using basic knowledge of HTML to create index.html and reference 3 recipes.
 
 All Recipes are taken off of AllRecipes.<br />
